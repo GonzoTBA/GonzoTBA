@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GonzoTBA (Javier Malonda)
 - 👀 I’m interested in programming (of course) and many other things (of course).
-- 🌱 I’m currently learning Django and JavaScript.
 - 💞️ I’m looking to collaborate on something interesting.
 - 📫 How to reach me. Facebook and Twitter, for example. Also at www.elsentidodelavida.net.
 
